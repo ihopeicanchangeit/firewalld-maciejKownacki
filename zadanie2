@@ -1,0 +1,4 @@
+##Zadanie 2
+Na maszynie S1 uruchom usługę FTP użytkownik anonimowy
+zrób takie przekierowanie aby z maszyny docker można było korzystać z FTP na S1 wywołując FTP na maszynie R1
+Przypomnienie: usługa FTP pracuje domyślnie na porcie 21
